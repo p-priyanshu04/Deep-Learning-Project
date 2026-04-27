@@ -20,7 +20,7 @@ This notebook implements the **RNN-POA** (Positional-Attention) model for answer
 
 **Evaluated on**: WikiQA **and** TREC-QA (clean) datasets with MAP and MRR metrics.
 
-## 1. Environment Setup
+## 1. Environment Setu
 """
 
 # Install required packages (for Colab/Kaggle)
