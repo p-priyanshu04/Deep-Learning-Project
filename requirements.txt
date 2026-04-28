@@ -1,0 +1,8 @@
+datasets
+nltk
+matplotlib
+tqdm
+torch
+numpy
+jupyter
+ipykernel
