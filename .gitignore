@@ -69,6 +69,5 @@ Thumbs.db
 *.swo
 
 # Scratch folder
-scratch/
 
 rnn_poa_reproduction.py
