@@ -121,7 +121,7 @@ Answer   ──► BLSTM ──► Positional Attention ──► r_a ┘
 | RNN-AVG       | 0.6889 | 0.6999 |
 | RNN-ATT       | 0.6961 | 0.7085 |
 | RNN-POA (paper) | **0.7212** | **0.7312** |
-| RNN-POA (ours) | -      | -      |
+| RNN-POA (ours) | **0.7062**  | **0.7179**   |
 
 ### TREC-QA (Clean)
 
@@ -130,7 +130,7 @@ Answer   ──► BLSTM ──► Positional Attention ──► r_a ┘
 | RNN-AVG           | 0.7064 | 0.8086 |
 | RNN-ATT           | 0.7180 | 0.8121 |
 | RNN-POA (paper)   | **0.7814** | **0.8513** |
-| RNN-POA (ours)    | -      | -      |
+| RNN-POA (ours)    | 0.5862     | 0.6890 |
 
 ---
 
